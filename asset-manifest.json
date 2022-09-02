@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gestor-usuarios/static/css/main.3a20f606.css",
+    "main.js": "/gestor-usuarios/static/js/main.ec889ca1.js",
+    "static/js/787.b0631169.chunk.js": "/gestor-usuarios/static/js/787.b0631169.chunk.js",
+    "index.html": "/gestor-usuarios/index.html",
+    "main.3a20f606.css.map": "/gestor-usuarios/static/css/main.3a20f606.css.map",
+    "main.ec889ca1.js.map": "/gestor-usuarios/static/js/main.ec889ca1.js.map",
+    "787.b0631169.chunk.js.map": "/gestor-usuarios/static/js/787.b0631169.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a20f606.css",
+    "static/js/main.ec889ca1.js"
+  ]
+}
